@@ -18,4 +18,4 @@ The player also has the option of replaying a hand. If they choose to do that, t
 
 The replay option will pick the highest of the two scores for that hand.
 
-At the end of the game, when the specified number of hands has been played, the player will receive their final score, comprised of the sum of the points for all the hands.
+At the end of the game, when the specified number of hands has been played, the player will receive their final score, comprised of the sum of the points for all the hands played.
